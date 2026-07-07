@@ -2,7 +2,13 @@
 
 # **𝙶𝚊𝚗𝚡~𝚐𝚊𝚗𝚎𝚗𝚍𝚛𝚊4𝚞**
 
-</p>
+```
+my name is Ganendra
+You can just call me ganx, no need to call me by my real name
+i'm from Indonesia
+my age = private
+I am active on github when I am not feeling busy
+```
 
 
 
