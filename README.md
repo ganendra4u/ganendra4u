@@ -1,4 +1,9 @@
-### 𝙶𝚊𝚗𝚡-𝚐𝚊𝚗𝚎𝚗𝚍𝚛𝚊4𝚞
+<p align="center">
+
+# **Ganx**
+
+</p>
+
 
 
 ### 📊 Development Analytics
