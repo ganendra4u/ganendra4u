@@ -28,9 +28,8 @@ I am active on github when I am not feeling busy
 #### 💻 Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,c##,html&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python&theme=dark" />
 </div>
-
 
 ---
 
