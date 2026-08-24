@@ -6,7 +6,7 @@
 my name is Ganendra
 You can just call me ganx, no need to call me by my real name
 i'm from Indonesia
-my age = private
+nice to meet u🙌🤝
 ```
 
 
