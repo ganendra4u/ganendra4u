@@ -3,10 +3,7 @@
 #### **𝙶𝚊𝚗𝚡~𝚐𝚊𝚗𝚎𝚗𝚍𝚛𝚊4𝚞**
 
 ```
-my name is Ganendra
-You can just call me ganx, no need to call me by my real name
-i'm from Indonesia
-nice to meet u🙌🤝
+Hi
 ```
 
 
